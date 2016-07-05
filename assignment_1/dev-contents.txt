@@ -1,0 +1,205 @@
+total 0
+crw------T 1 root    root     10, 235 Jun 30 21:08 autofs
+drwxr-xr-x 2 root    root         680 Jun 30 21:08 block
+drwxr-xr-x 2 root    root         100 Jun 30 21:08 bsg
+crw------T 1 root    root     10, 234 Jun 30 21:08 btrfs-control
+lrwxrwxrwx 1 root    root           3 Jun 30 21:08 cdrom -> sr1
+lrwxrwxrwx 1 root    root           3 Jun 30 21:08 cdrom1 -> sr0
+drwxr-xr-x 2 root    root        3240 Jun 30 21:08 char
+crw------- 1 root    root      5,   1 Jun 30 21:08 console
+lrwxrwxrwx 1 root    root          11 Jun 30 21:08 core -> /proc/kcore
+drwxr-xr-x 2 root    root          60 Jun 30 21:08 cpu
+crw------- 1 root    root     10,  60 Jun 30 21:08 cpu_dma_latency
+drwxr-xr-x 5 root    root         100 Jun 30 21:08 disk
+brw-rw---- 1 root    disk    252,   0 Jun 30 21:08 dm-0
+brw-rw---- 1 root    disk    252,   1 Jun 30 21:08 dm-1
+lrwxrwxrwx 1 root    root           3 Jun 30 21:08 dvd -> sr1
+lrwxrwxrwx 1 root    root           3 Jun 30 21:08 dvd1 -> sr0
+crw------- 1 root    root     10,  61 Jun 30 21:08 ecryptfs
+crw-rw---- 1 root    video    29,   0 Jun 30 21:08 fb0
+lrwxrwxrwx 1 root    root          13 Jun 30 21:08 fd -> /proc/self/fd
+crw-rw-rw- 1 root    root      1,   7 Jun 30 21:08 full
+crw-rw-rwT 1 root    fuse     10, 229 Jun 30 21:08 fuse
+crw------- 1 root    root     10, 228 Jun 30 21:08 hpet
+drwxr-xr-x 3 root    root         220 Jun 30 21:08 input
+crw------- 1 root    root      1,  11 Jun 30 21:08 kmsg
+srw-rw-rw- 1 root    root           0 Jun 30 21:08 log
+brw-rw---- 1 root    disk      7,   0 Jun 30 21:08 loop0
+brw-rw---- 1 root    disk      7,   1 Jun 30 21:08 loop1
+brw-rw---- 1 root    disk      7,   2 Jun 30 21:08 loop2
+brw-rw---- 1 root    disk      7,   3 Jun 30 21:08 loop3
+brw-rw---- 1 root    disk      7,   4 Jun 30 21:08 loop4
+brw-rw---- 1 root    disk      7,   5 Jun 30 21:08 loop5
+brw-rw---- 1 root    disk      7,   6 Jun 30 21:08 loop6
+brw-rw---- 1 root    disk      7,   7 Jun 30 21:08 loop7
+crw------- 1 root    root     10, 237 Jun 30 21:08 loop-control
+drwxr-xr-x 2 root    root         100 Jun 30 21:08 mapper
+crw------- 1 root    root     10, 227 Jun 30 21:08 mcelog
+crw-r----- 1 root    kmem      1,   1 Jun 30 21:08 mem
+drwxr-xr-x 2 root    root          60 Jun 30 21:08 net
+crw------- 1 root    root     10,  59 Jun 30 21:08 network_latency
+crw------- 1 root    root     10,  58 Jun 30 21:08 network_throughput
+crw-rw-rw- 1 root    root      1,   3 Jun 30 21:08 null
+crw------- 1 root    root      1,  12 Jun 30 21:08 oldmem
+crw-r----- 1 root    kmem      1,   4 Jun 30 21:08 port
+crw------- 1 root    root    108,   0 Jun 30 21:08 ppp
+drwxr-xr-x 2 root    root          80 Jun 30 21:08 precise64
+crw------- 1 root    root     10,   1 Jun 30 21:08 psaux
+crw-rw-rw- 1 root    tty       5,   2 Jul  5 23:35 ptmx
+drwxr-xr-x 2 root    root           0 Jun 30 21:08 pts
+brw-rw---- 1 root    disk      1,   0 Jun 30 21:08 ram0
+brw-rw---- 1 root    disk      1,   1 Jun 30 21:08 ram1
+brw-rw---- 1 root    disk      1,  10 Jun 30 21:08 ram10
+brw-rw---- 1 root    disk      1,  11 Jun 30 21:08 ram11
+brw-rw---- 1 root    disk      1,  12 Jun 30 21:08 ram12
+brw-rw---- 1 root    disk      1,  13 Jun 30 21:08 ram13
+brw-rw---- 1 root    disk      1,  14 Jun 30 21:08 ram14
+brw-rw---- 1 root    disk      1,  15 Jun 30 21:08 ram15
+brw-rw---- 1 root    disk      1,   2 Jun 30 21:08 ram2
+brw-rw---- 1 root    disk      1,   3 Jun 30 21:08 ram3
+brw-rw---- 1 root    disk      1,   4 Jun 30 21:08 ram4
+brw-rw---- 1 root    disk      1,   5 Jun 30 21:08 ram5
+brw-rw---- 1 root    disk      1,   6 Jun 30 21:08 ram6
+brw-rw---- 1 root    disk      1,   7 Jun 30 21:08 ram7
+brw-rw---- 1 root    disk      1,   8 Jun 30 21:08 ram8
+brw-rw---- 1 root    disk      1,   9 Jun 30 21:08 ram9
+crw-rw-rw- 1 root    root      1,   8 Jun 30 21:08 random
+crw-r--r-- 1 root    root     10,  62 Jun 30 21:08 rfkill
+lrwxrwxrwx 1 root    root           4 Jun 30 21:08 rtc -> rtc0
+crw------- 1 root    root    254,   0 Jun 30 21:08 rtc0
+brw-rw---- 1 root    disk      8,   0 Jun 30 21:08 sda
+brw-rw---- 1 root    disk      8,   1 Jun 30 21:08 sda1
+brw-rw---- 1 root    disk      8,   2 Jun 30 21:08 sda2
+brw-rw---- 1 root    disk      8,   5 Jun 30 21:08 sda5
+crw-rw---- 1 root    disk     21,   0 Jun 30 21:08 sg0
+crw-rw---- 1 root    cdrom    21,   1 Jun 30 21:08 sg1
+crw-rw---- 1 root    cdrom    21,   2 Jun 30 21:08 sg2
+lrwxrwxrwx 1 root    root           8 Jun 30 21:08 shm -> /run/shm
+crw------- 1 root    root     10, 231 Jun 30 21:08 snapshot
+drwxr-xr-x 2 root    root          80 Jun 30 21:08 snd
+brw-rw---- 1 root    cdrom    11,   0 Jun 30 21:08 sr0
+brw-rw---- 1 root    cdrom    11,   1 Jun 30 21:08 sr1
+lrwxrwxrwx 1 root    root          15 Jun 30 21:08 stderr -> /proc/self/fd/2
+lrwxrwxrwx 1 root    root          15 Jun 30 21:08 stdin -> /proc/self/fd/0
+lrwxrwxrwx 1 root    root          15 Jun 30 21:08 stdout -> /proc/self/fd/1
+crw-rw-rw- 1 root    tty       5,   0 Jul  5 23:11 tty
+crw--w---- 1 root    tty       4,   0 Jun 30 21:08 tty0
+crw-rw---- 1 root    tty       4,   1 Jun 30 21:08 tty1
+crw--w---- 1 root    tty       4,  10 Jun 30 21:08 tty10
+crw--w---- 1 root    tty       4,  11 Jun 30 21:08 tty11
+crw--w---- 1 root    tty       4,  12 Jun 30 21:08 tty12
+crw--w---- 1 root    tty       4,  13 Jun 30 21:08 tty13
+crw--w---- 1 root    tty       4,  14 Jun 30 21:08 tty14
+crw--w---- 1 root    tty       4,  15 Jun 30 21:08 tty15
+crw--w---- 1 root    tty       4,  16 Jun 30 21:08 tty16
+crw--w---- 1 root    tty       4,  17 Jun 30 21:08 tty17
+crw--w---- 1 root    tty       4,  18 Jun 30 21:08 tty18
+crw--w---- 1 root    tty       4,  19 Jun 30 21:08 tty19
+crw-rw---- 1 root    tty       4,   2 Jun 30 21:08 tty2
+crw--w---- 1 root    tty       4,  20 Jun 30 21:08 tty20
+crw--w---- 1 root    tty       4,  21 Jun 30 21:08 tty21
+crw--w---- 1 root    tty       4,  22 Jun 30 21:08 tty22
+crw--w---- 1 root    tty       4,  23 Jun 30 21:08 tty23
+crw--w---- 1 root    tty       4,  24 Jun 30 21:08 tty24
+crw--w---- 1 root    tty       4,  25 Jun 30 21:08 tty25
+crw--w---- 1 root    tty       4,  26 Jun 30 21:08 tty26
+crw--w---- 1 root    tty       4,  27 Jun 30 21:08 tty27
+crw--w---- 1 root    tty       4,  28 Jun 30 21:08 tty28
+crw--w---- 1 root    tty       4,  29 Jun 30 21:08 tty29
+crw-rw---- 1 root    tty       4,   3 Jun 30 21:08 tty3
+crw--w---- 1 root    tty       4,  30 Jun 30 21:08 tty30
+crw--w---- 1 root    tty       4,  31 Jun 30 21:08 tty31
+crw--w---- 1 root    tty       4,  32 Jun 30 21:08 tty32
+crw--w---- 1 root    tty       4,  33 Jun 30 21:08 tty33
+crw--w---- 1 root    tty       4,  34 Jun 30 21:08 tty34
+crw--w---- 1 root    tty       4,  35 Jun 30 21:08 tty35
+crw--w---- 1 root    tty       4,  36 Jun 30 21:08 tty36
+crw--w---- 1 root    tty       4,  37 Jun 30 21:08 tty37
+crw--w---- 1 root    tty       4,  38 Jun 30 21:08 tty38
+crw--w---- 1 root    tty       4,  39 Jun 30 21:08 tty39
+crw-rw---- 1 root    tty       4,   4 Jun 30 21:08 tty4
+crw--w---- 1 root    tty       4,  40 Jun 30 21:08 tty40
+crw--w---- 1 root    tty       4,  41 Jun 30 21:08 tty41
+crw--w---- 1 root    tty       4,  42 Jun 30 21:08 tty42
+crw--w---- 1 root    tty       4,  43 Jun 30 21:08 tty43
+crw--w---- 1 root    tty       4,  44 Jun 30 21:08 tty44
+crw--w---- 1 root    tty       4,  45 Jun 30 21:08 tty45
+crw--w---- 1 root    tty       4,  46 Jun 30 21:08 tty46
+crw--w---- 1 root    tty       4,  47 Jun 30 21:08 tty47
+crw--w---- 1 root    tty       4,  48 Jun 30 21:08 tty48
+crw--w---- 1 root    tty       4,  49 Jun 30 21:08 tty49
+crw-rw---- 1 root    tty       4,   5 Jun 30 21:08 tty5
+crw--w---- 1 root    tty       4,  50 Jun 30 21:08 tty50
+crw--w---- 1 root    tty       4,  51 Jun 30 21:08 tty51
+crw--w---- 1 root    tty       4,  52 Jun 30 21:08 tty52
+crw--w---- 1 root    tty       4,  53 Jun 30 21:08 tty53
+crw--w---- 1 root    tty       4,  54 Jun 30 21:08 tty54
+crw--w---- 1 root    tty       4,  55 Jun 30 21:08 tty55
+crw--w---- 1 root    tty       4,  56 Jun 30 21:08 tty56
+crw--w---- 1 root    tty       4,  57 Jun 30 21:08 tty57
+crw--w---- 1 root    tty       4,  58 Jun 30 21:08 tty58
+crw--w---- 1 root    tty       4,  59 Jun 30 21:08 tty59
+crw-rw---- 1 root    tty       4,   6 Jun 30 21:08 tty6
+crw--w---- 1 root    tty       4,  60 Jun 30 21:08 tty60
+crw--w---- 1 root    tty       4,  61 Jun 30 21:08 tty61
+crw--w---- 1 root    tty       4,  62 Jun 30 21:08 tty62
+crw--w---- 1 root    tty       4,  63 Jun 30 21:08 tty63
+crw--w---- 1 root    tty       4,   7 Jun 30 21:08 tty7
+crw--w---- 1 root    tty       4,   8 Jun 30 21:08 tty8
+crw--w---- 1 root    tty       4,   9 Jun 30 21:08 tty9
+crw------- 1 root    root      5,   3 Jun 30 21:08 ttyprintk
+crw-rw---- 1 root    dialout   4,  64 Jun 30 21:08 ttyS0
+crw-rw---- 1 root    dialout   4,  65 Jun 30 21:08 ttyS1
+crw-rw---- 1 root    dialout   4,  74 Jun 30 21:08 ttyS10
+crw-rw---- 1 root    dialout   4,  75 Jun 30 21:08 ttyS11
+crw-rw---- 1 root    dialout   4,  76 Jun 30 21:08 ttyS12
+crw-rw---- 1 root    dialout   4,  77 Jun 30 21:08 ttyS13
+crw-rw---- 1 root    dialout   4,  78 Jun 30 21:08 ttyS14
+crw-rw---- 1 root    dialout   4,  79 Jun 30 21:08 ttyS15
+crw-rw---- 1 root    dialout   4,  80 Jun 30 21:08 ttyS16
+crw-rw---- 1 root    dialout   4,  81 Jun 30 21:08 ttyS17
+crw-rw---- 1 root    dialout   4,  82 Jun 30 21:08 ttyS18
+crw-rw---- 1 root    dialout   4,  83 Jun 30 21:08 ttyS19
+crw-rw---- 1 root    dialout   4,  66 Jun 30 21:08 ttyS2
+crw-rw---- 1 root    dialout   4,  84 Jun 30 21:08 ttyS20
+crw-rw---- 1 root    dialout   4,  85 Jun 30 21:08 ttyS21
+crw-rw---- 1 root    dialout   4,  86 Jun 30 21:08 ttyS22
+crw-rw---- 1 root    dialout   4,  87 Jun 30 21:08 ttyS23
+crw-rw---- 1 root    dialout   4,  88 Jun 30 21:08 ttyS24
+crw-rw---- 1 root    dialout   4,  89 Jun 30 21:08 ttyS25
+crw-rw---- 1 root    dialout   4,  90 Jun 30 21:08 ttyS26
+crw-rw---- 1 root    dialout   4,  91 Jun 30 21:08 ttyS27
+crw-rw---- 1 root    dialout   4,  92 Jun 30 21:08 ttyS28
+crw-rw---- 1 root    dialout   4,  93 Jun 30 21:08 ttyS29
+crw-rw---- 1 root    dialout   4,  67 Jun 30 21:08 ttyS3
+crw-rw---- 1 root    dialout   4,  94 Jun 30 21:08 ttyS30
+crw-rw---- 1 root    dialout   4,  95 Jun 30 21:08 ttyS31
+crw-rw---- 1 root    dialout   4,  68 Jun 30 21:08 ttyS4
+crw-rw---- 1 root    dialout   4,  69 Jun 30 21:08 ttyS5
+crw-rw---- 1 root    dialout   4,  70 Jun 30 21:08 ttyS6
+crw-rw---- 1 root    dialout   4,  71 Jun 30 21:08 ttyS7
+crw-rw---- 1 root    dialout   4,  72 Jun 30 21:08 ttyS8
+crw-rw---- 1 root    dialout   4,  73 Jun 30 21:08 ttyS9
+crw-r----- 1 root    root     10, 223 Jun 30 21:08 uinput
+crw-rw-rw- 1 root    root      1,   9 Jun 30 21:08 urandom
+crw------- 1 root    root    252,   0 Jun 30 21:08 usbmon0
+crw-rw---- 1 vboxadd daemon   10,  57 Jun 30 21:08 vboxguest
+crw-rw-rw- 1 vboxadd root     10,  56 Jun 30 21:08 vboxuser
+crw-rw---- 1 root    tty       7,   0 Jun 30 21:08 vcs
+crw-rw---- 1 root    tty       7,   1 Jun 30 21:08 vcs1
+crw-rw---- 1 root    tty       7,   2 Jun 30 21:08 vcs2
+crw-rw---- 1 root    tty       7,   3 Jun 30 21:08 vcs3
+crw-rw---- 1 root    tty       7,   4 Jun 30 21:08 vcs4
+crw-rw---- 1 root    tty       7,   5 Jun 30 21:08 vcs5
+crw-rw---- 1 root    tty       7,   6 Jun 30 21:08 vcs6
+crw-rw---- 1 root    tty       7,   7 Jun 30 21:08 vcs7
+crw-rw---- 1 root    tty       7, 128 Jun 30 21:08 vcsa
+crw-rw---- 1 root    tty       7, 129 Jun 30 21:08 vcsa1
+crw-rw---- 1 root    tty       7, 130 Jun 30 21:08 vcsa2
+crw-rw---- 1 root    tty       7, 131 Jun 30 21:08 vcsa3
+crw-rw---- 1 root    tty       7, 132 Jun 30 21:08 vcsa4
+crw-rw---- 1 root    tty       7, 133 Jun 30 21:08 vcsa5
+crw-rw---- 1 root    tty       7, 134 Jun 30 21:08 vcsa6
+crw-rw---- 1 root    tty       7, 135 Jun 30 21:08 vcsa7
+crw------- 1 root    root     10,  63 Jun 30 21:08 vga_arbiter
+crw-rw-rw- 1 root    root      1,   5 Jun 30 21:08 zero
