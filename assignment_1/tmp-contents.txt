@@ -1,0 +1,3 @@
+total 64
+drwxrwxr-x 3 vagrant vagrant  4096 Jun 30 23:37 ruby-build.20160630233731.1243
+-rw-rw-r-- 1 vagrant vagrant 59265 Jun 30 23:38 ruby-build.20160630233731.1243.log
